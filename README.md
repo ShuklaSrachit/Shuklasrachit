@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-<!-- Banner -->
+<!-- Banner --><img width="1536" height="1024" alt="ChatGPT Image Sep 6, 2025, 01_32_19 PM" src="https://github.com/user-attachments/assets/03ab5516-9040-42a3-94de-cd0ee3c90919" />
+
 <p align="center">
-  <img src=["https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F72C8F&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Srachit+Shukla!;Software+Developer+💻;AI+%26+ML+Enthusiast+🤖;Open-Source+Contributor+🚀;Always+learning+new+things+✨" alt="Typing SVG" />](https://sdmntpraustraliaeast.oaiusercontent.com/files/00000000-4700-61fa-9f60-f330a6713d49/raw?se=2025-09-06T09%3A01%3A41Z&sp=r&sv=2024-08-04&sr=b&scid=5e3643f6-fe59-55d0-b470-f8d2f84d6506&skoid=f8b66c09-1aa0-4801-9884-173c5cef2b8c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-05T23%3A22%3A51Z&ske=2025-09-06T23%3A22%3A51Z&sks=b&skv=2024-08-04&sig=vQ/DBcafOwan6jOiF4kTupIeeOkwSiaZ00%2BDOs9Qhg4%3D)
+  <img src=[
 </p>
 
 ---
