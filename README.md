@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F72C8F&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Srachit+Shukla!;Software+Developer+💻;AI+%26+ML+Enthusiast+🤖;Open-Source+Contributor+🚀;Always+learning+new+things+✨" alt="Typing SVG" />
+  <img src=["https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F72C8F&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Srachit+Shukla!;Software+Developer+💻;AI+%26+ML+Enthusiast+🤖;Open-Source+Contributor+🚀;Always+learning+new+things+✨" alt="Typing SVG" />](https://sdmntpraustraliaeast.oaiusercontent.com/files/00000000-4700-61fa-9f60-f330a6713d49/raw?se=2025-09-06T09%3A01%3A41Z&sp=r&sv=2024-08-04&sr=b&scid=5e3643f6-fe59-55d0-b470-f8d2f84d6506&skoid=f8b66c09-1aa0-4801-9884-173c5cef2b8c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-05T23%3A22%3A51Z&ske=2025-09-06T23%3A22%3A51Z&sks=b&skv=2024-08-04&sig=vQ/DBcafOwan6jOiF4kTupIeeOkwSiaZ00%2BDOs9Qhg4%3D)
 </p>
 
 ---
@@ -29,7 +29,7 @@ I enjoy solving real-world problems with clean code, data-driven solutions, and 
 - 👯 I’m looking to collaborate on: **Open-source AI/ML projects & scalable software systems**  
 - 🤔 I’m looking for help with: **Optimizing ML models for real-world deployment**  
 - 💬 Ask me about: **Python, AI/ML, Web Development, and problem-solving strategies**  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/yourprofile)** | **[Email](mailto:youremail@example.com)**  
+- 📫 How to reach me: **[LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/srachitshukla/))** | **[Email](mailto:srachti.dev@gmail.com)**  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: *I see coding problems as puzzles waiting to be solved!*  
 
