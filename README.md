@@ -1,12 +1,5 @@
 ## Hi there 👋
-
-<p align="center">
-  <img src=[<!-- Banner --><img width="1536" height="1024" alt="ChatGPT Image Sep 6, 2025, 01_32_19 PM" src="https://github.com/user-attachments/assets/03ab5516-9040-42a3-94de-cd0ee3c90919"] />
-
-</p>
-
----
-
+# I am Srachit Shukla
 # 💻 Software Developer | 🤖 AI/ML Enthusiast  
 
 Passionate about building scalable applications and exploring the power of Artificial Intelligence & Machine Learning.  
