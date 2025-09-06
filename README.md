@@ -1,9 +1,8 @@
-## Hi there 👋
-# I am Srachit Shukla
-# 💻 Software Developer | 🤖 AI/ML Enthusiast  
-
-Passionate about building scalable applications and exploring the power of Artificial Intelligence & Machine Learning.  
+## Hi there 👋 I am Srachit Shukla 
+# Passionate about building scalable applications and exploring the power of Artificial Intelligence & Machine Learning.  
 I enjoy solving real-world problems with clean code, data-driven solutions, and modern technologies.  
+
+# 💻 Software Developer | 🤖 AI/ML Enthusiast  
 
 🔹 Skilled in **Python, Java, and Web Development**  
 🔹 Hands-on with **Machine Learning, Deep Learning & Data Science projects**  
