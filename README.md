@@ -5,8 +5,7 @@
 -->
 
 <p align="center">
-  <img src="[file:///Users/shuklasrachit7/Documents/cozy-room-with-sunset-student_23-2152014275.avif](https://github.com/ShuklaSrachit/Shuklasrachit/blob/main/cozy-room-with-sunset-student_23-2152014275.avif)" width="80%" />
-
+  <img src="BANNER_IMAGE_URL" alt="Cozy data & AI workspace" width="80%" />
 </p>
 
 <p align="center">
