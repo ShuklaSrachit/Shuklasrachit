@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="/mnt/data/cozy-room-with-sunset-student_23-2152014275.avif" width="80%" />
+  <img src="file:///Users/shuklasrachit7/Documents/cozy-room-with-sunset-student_23-2152014275.avif" width="80%" />
 
 </p>
 
