@@ -4,17 +4,15 @@
   2. Replace BANNER_IMAGE_URL below with the raw image link.
 -->
 
-<p align="center">
-  <img src="BANNER_IMAGE_URL" alt="Cozy data & AI workspace" width="80%" />
-</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=4DD0E1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Srachit+Shukla+👋;Aspiring+Data+Analyst+%26+AI%2FML+Engineer;Data+Storytelling+%7C+Analytics+%7C+Model+Building" alt="Typing animation" />
+  <img src="cozy-room-with-sunset-student_23-2152014275.avif" />
 </p>
+
 
 ---
 
-<h3 align="center">📊 Data | 🤖 ML | ☁️ Cloud | 📈 Business Insights</h3>
+<h3 align="center">☕ Java | ⚙️ REST APIs | React | 📊 Data | 🤖 ML | ☁️ Cloud | 📈 Business Insights</h3>
 
 ---
 
