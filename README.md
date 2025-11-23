@@ -75,7 +75,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,python,js,html,css,mysql,postgres,mongodb,hibernate,docker,aws,git,github,linux,postman,idea,py,sqlite" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,python,js,html,css,mysql,postgres,hibernate,docker,aws,git,github,postman,idea" />
 </p>
 
 ---
